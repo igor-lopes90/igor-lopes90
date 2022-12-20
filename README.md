@@ -16,8 +16,9 @@ Criando domínio em:
 
 ## Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igor-lopes90&repo=projeto-android)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igor-lopes90&repo=projeto-cordel)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igor-lopes90&repo=projeto-android)](https://igor-lopes90.github.io/projeto-android/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igor-lopes90&repo=projeto-cordel)](https://igor-lopes90.github.io/projeto-cordel/)
+
 
 ## Contato
 
