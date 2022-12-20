@@ -16,7 +16,7 @@ Criando domínio em:
 
 ## Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igor-lopes90&repo=devweekgit-igor.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igor-lopes90&repo=projeto-android.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato
 
